@@ -1,0 +1,22 @@
+{
+  "name": "ml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.8.2",
+    "node-tesseract-ocr": "^2.2.1",
+    "sharp": "^0.28.2",
+    "text-to-image": "^4.0.0",
+    "typescript": "^4.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^15.0.2",
+    "@types/sharp": "^0.28.1"
+  }
+}
